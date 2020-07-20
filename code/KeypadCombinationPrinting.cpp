@@ -33,10 +33,6 @@ void doit(int num ,string output, string input[])
     
     
 }
-
-
-
-
 void printKeypad(int num)
 {
     /*
