@@ -58,21 +58,12 @@ void helper(string input, string output)
     }
     
 }
-
-
-
-
-
-
 void printAllPossibleCodes(string input)
 {
     string output="";
     helper(input,output);
   
 }
-
-
-
 int main(){
     string input;
     cin >> input;
